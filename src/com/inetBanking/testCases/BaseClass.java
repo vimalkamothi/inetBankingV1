@@ -16,6 +16,8 @@ import org.testng.annotations.Parameters;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.Iterator;
+import java.util.Set;
 
 
 public class BaseClass {
@@ -46,6 +48,17 @@ public class BaseClass {
         PropertyConfigurator.configure("Log4j.properties");
         Thread.sleep(2000);
         driver.manage().window().maximize();
+
+        String parent=driver.getWindowHandle();
+        Set<String>Browsers=driver.getWindowHandles();
+
+        Iterator<String> I1= Browsers.iterator();
+
+        String child_window=I1.next();
+
+            driver.switchTo().window(child_window);
+            driver.close();
+        driver.switchTo().window(parent);
 
     }
 

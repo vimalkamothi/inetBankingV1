@@ -23,7 +23,7 @@ public class TC_LoginTest_001 extends BaseClass {
 		if(driver.getTitle().equals("Guru99 Bank Manager HomePage"))
 		{
 			Assert.assertTrue(true);logger.info("Login test Passed.");
-			//System.out.println("This is updated and for the PUSH record change.");
+			System.out.println("This is updated and for the PUSH record change.");
 		}
 		else
 		{

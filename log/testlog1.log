@@ -575,3 +575,31 @@
 2022-08-01 09:37:31,276 [main] INFO ebanking - Entered Password
 2022-08-01 09:37:32,007 [main] INFO ebanking - Clicked on Submit button
 2022-08-01 09:37:32,019 [main] INFO ebanking - Login test Passed.
+2022-08-03 17:14:59,118 [main] INFO ebanking - URL is opened.
+2022-08-03 17:15:17,427 [main] INFO ebanking - Entered UserName
+2022-08-03 17:15:17,764 [main] INFO ebanking - Entered Password
+2022-08-03 17:15:22,220 [main] INFO ebanking - Clicked on Submit button
+2022-08-03 17:15:22,443 [main] INFO ebanking - Login test Passed.
+2022-08-03 17:15:42,404 [main] INFO ebanking - URL is opened.
+2022-08-03 17:16:08,523 [main] INFO ebanking - Entered UserName
+2022-08-03 17:16:08,784 [main] INFO ebanking - Entered Password
+2022-08-03 17:16:13,288 [main] INFO ebanking - Clicked on Submit button
+2022-08-03 17:16:13,336 [main] INFO ebanking - Login test Passed.
+2022-08-03 17:16:23,876 [main] INFO ebanking - Entered UserName
+2022-08-03 17:16:24,342 [main] INFO ebanking - Entered Password
+2022-08-03 17:16:30,212 [main] INFO ebanking - Clicked on Submit button
+2022-08-03 17:16:30,266 [main] INFO ebanking - Login test Passed.
+2022-08-03 17:16:36,167 [main] INFO ebanking - Entered UserName
+2022-08-03 17:16:36,551 [main] INFO ebanking - Entered Password
+2022-08-03 17:16:38,731 [main] INFO ebanking - Clicked on Submit button
+2022-08-03 17:16:38,762 [main] INFO ebanking - Login test Passed.
+2022-08-03 17:51:23,598 [main] INFO ebanking - URL is opened.
+2022-08-03 17:51:41,887 [main] INFO ebanking - Entered UserName
+2022-08-03 17:51:42,340 [main] INFO ebanking - Entered Password
+2022-08-03 17:51:49,175 [main] INFO ebanking - Clicked on Submit button
+2022-08-03 17:51:49,678 [main] INFO ebanking - Login test Passed.
+2022-08-03 17:52:37,548 [main] INFO ebanking - URL is opened.
+2022-08-03 17:52:55,039 [main] INFO ebanking - Entered UserName
+2022-08-03 17:52:55,510 [main] INFO ebanking - Entered Password
+2022-08-03 17:53:00,497 [main] INFO ebanking - Clicked on Submit button
+2022-08-03 17:53:00,547 [main] INFO ebanking - Login test Passed.
